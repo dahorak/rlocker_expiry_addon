@@ -40,3 +40,8 @@ Allowing auto migrate when the app loads
 ## [0.1.2] - 2022-07-08
 
 Fix LockableResource.resourceexpirypolicy attribute not exist
+
+## [0.1.3] - 2026-04-16
+
+- Migrate to modern pyproject.toml build system
+- Fix Django 5.x compatibility by replacing deprecated timezone imports
